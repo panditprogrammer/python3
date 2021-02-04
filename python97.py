@@ -1,0 +1,15 @@
+# isupper and is lower function in python
+print("This is isupper function")
+x="This is paragraph."
+print(x.isupper())
+print(x.islower())
+print(x.istitle())
+print("This is uppercase")
+n=x.upper()
+print(n.isupper())
+print("This is lowercase.")
+m=x.lower()
+print(m)
+print("This is checking title is lower or uppercase.")
+o=x.title()
+print(o)
